@@ -5,7 +5,7 @@ Started:Oct.27,2016
 #Books
 - Ruby
   - [x] [Learn to Program by Chris Pinel](https://pine.fm/LearnToProgram/chap_00.html)
-    - still reading
+    - page 3
   - [x] [Learn Ruby the hard way](https://learnrubythehardway.org/book/ex3.html)
     - still reading
   - [x] [Ruby in 100 minutes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html)
@@ -17,7 +17,7 @@ Started:Oct.27,2016
 - [ ] [Full stack Ruby on Rails by upskill courses](http://upskillcourses.com/p/essential-web-developer-course)
 - [x] [Learn Ruby on Rails 5 Book 1](http://learn-rails.com/)
 - [x] [Learn Ruby on Rails 5 Book 2](http://learn-rails.com/)
-  - Introducing view helpers #195
+  - Introducing view helpers page 195
 - [x] [Railstutorial by Michael Hartl](https://www.railstutorial.org/book)
   - Start Below:
     - [x] [command-line-tutorial](https://www.learnenough.com/command-line-tutorial)
