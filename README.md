@@ -4,10 +4,11 @@ Started:Oct.27,2016
 
 #Books
 - Ruby
-  - [ ] [Learn to Program by Chris Pinel](https://pine.fm/LearnToProgram/chap_00.html)
+  - [x] [Learn to Program by Chris Pinel](https://pine.fm/LearnToProgram/chap_00.html)
     - still reading
-  - [x] [text-editor-tutorial](https://www.learnenough.com/text-editor-tutorial)
-  - [x] [Learng Enough Git to be Dangerous / Highly Recommend!](https://www.learnenough.com/git-tutorial)
+  - [x] [Learn Ruby the hard way](https://learnrubythehardway.org/book/ex3.html)
+    - still reading
+  - [x] [Ruby in 100 minutes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html)
   - [x] [Learn Enough HTML](https://www.learnenough.com/html-tutorial)
 
 - Ruby on Rails
