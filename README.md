@@ -27,7 +27,5 @@ Started:Oct.27,2016
       - [x] [Railstutorial](https://www.railstutorial.org/book)
         - [x] [From zero to deploy](https://www.learnenough.com/text-editor-tutorial)
         - [x] [A toy app](https://www.learnenough.com/text-editor-tutorial)
-        - [x] [Mostly static pages](https://www.learnenough.com/text-editor-tutorial)
-          - Exercises
-            - Listing 3.4.4
-              - 'Setting the root route'
+        - [x] [Mostly static pages](https://www.learnenough.com/text-editor-tutorial) still reading page 3.4.4 exercises
+        
