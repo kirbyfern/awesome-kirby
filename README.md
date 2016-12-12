@@ -1,8 +1,8 @@
-# my_journey
-Started seriously in to programming Oct.27,2016
+# Journey
+Started:Oct.27,2016
 #Everything about Programming
+#www.Railstutorial.org / By: Michael Hartl
 - Rails
-www.Railstutorial.org / By: Michael Hartl
 Starting:
   - [x] [command-line-tutorial](https://www.learnenough.com/command-line-tutorial)
   - [x] [text-editor-tutorial](https://www.learnenough.com/text-editor-tutorial)
@@ -17,4 +17,3 @@ Starting:
         - Exercises
           - Listing 3.4.4
             - 'Setting the root route'
-      
