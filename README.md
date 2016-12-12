@@ -14,6 +14,9 @@ Started:Oct.27,2016
     - still reading
   - [x] [Learn Linux Here](https://linuxjourney.com/)
 
+# Git
+  + [How to write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
+
 
 # Books
 - Ruby
