@@ -2,6 +2,11 @@
 Started:Oct.27,2016
 #Everything about Programming
 
++ Slack Groups:
+  - Operation Code (Where Military Veterans Code & Network)
+  - code & coffee long beach (code meetup)
+  - LA ruby (east side & west side ruby on rails meetup)
+
 #Books
 - Ruby
   - [x] [Learn to Program by Chris Pinel](https://pine.fm/LearnToProgram/chap_00.html) still reading page 3
@@ -28,4 +33,3 @@ Started:Oct.27,2016
         - [x] [From zero to deploy](https://www.learnenough.com/text-editor-tutorial)
         - [x] [A toy app](https://www.learnenough.com/text-editor-tutorial)
         - [x] [Mostly static pages](https://www.learnenough.com/text-editor-tutorial) still reading page 3.4.4 exercises
-        
