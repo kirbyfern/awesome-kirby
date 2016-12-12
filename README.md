@@ -33,6 +33,7 @@ Started:Oct.27,2016
   - [x] [Learn Ruby with edgecase ruby koans](http://rubykoans.com/)
 
 - Ruby on Rails
+- [ ] [Rails HTML5 boilerplate](http://railsapps.github.io/rails-html5-boilerplate.html)
 - [ ] [Rails and different gems tutorials](https://www.youtube.com/user/RailscastsReloaded)
 - [ ] [Structured Tutorials by jumpstartlab](http://tutorials.jumpstartlab.com/)
 - [ ] [Building 12 apps in 12 weeks on Ruby on Rails by mackenziechild](https://mackenziechild.me/rails-courses/)
