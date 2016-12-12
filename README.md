@@ -55,3 +55,4 @@ Started:Oct.27,2016
         - [x] [Mostly static pages](https://www.learnenough.com/text-editor-tutorial) still reading page 3.4.4 exercises
 
 # Mostly Javascript
+ + To be continued
