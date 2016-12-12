@@ -1,19 +1,30 @@
 # Journey
 Started:Oct.27,2016
 #Everything about Programming
-#www.Railstutorial.org / By: Michael Hartl
-- Rails
-Starting:
-  - [x] [command-line-tutorial](https://www.learnenough.com/command-line-tutorial)
+
+#Books
+- Ruby
+  - [ ] [Learn to Program by Chris Pinel](https://pine.fm/LearnToProgram/chap_00.html)
+    - still reading
   - [x] [text-editor-tutorial](https://www.learnenough.com/text-editor-tutorial)
   - [x] [Learng Enough Git to be Dangerous / Highly Recommend!](https://www.learnenough.com/git-tutorial)
   - [x] [Learn Enough HTML](https://www.learnenough.com/html-tutorial)
 
-  + Advance
-    - [x] [Railstutorial](https://www.railstutorial.org/book)
-      - [x] [From zero to deploy](https://www.learnenough.com/text-editor-tutorial)
-      - [x] [A toy app](https://www.learnenough.com/text-editor-tutorial)
-      - [x] [Mostly static pages](https://www.learnenough.com/text-editor-tutorial)
-        - Exercises
-          - Listing 3.4.4
-            - 'Setting the root route'
+- Ruby on Rails
+- [ ] [Building 12 apps in 12 weeks on Ruby on Rails by mackenziechild](https://mackenziechild.me/rails-courses/)
+- [ ] [Full stack Ruby on Rails by upskill courses](http://upskillcourses.com/p/essential-web-developer-course)
+- [x] [Railstutorial by Michael Hartl](https://www.railstutorial.org/book)
+  - Start Below:
+    - [x] [command-line-tutorial](https://www.learnenough.com/command-line-tutorial)
+    - [x] [text-editor-tutorial](https://www.learnenough.com/text-editor-tutorial)
+    - [x] [Learng Enough Git to be Dangerous / Highly Recommend!](https://www.learnenough.com/git-tutorial)
+    - [x] [Learn Enough HTML](https://www.learnenough.com/html-tutorial)
+
+    + Advance
+      - [x] [Railstutorial](https://www.railstutorial.org/book)
+        - [x] [From zero to deploy](https://www.learnenough.com/text-editor-tutorial)
+        - [x] [A toy app](https://www.learnenough.com/text-editor-tutorial)
+        - [x] [Mostly static pages](https://www.learnenough.com/text-editor-tutorial)
+          - Exercises
+            - Listing 3.4.4
+              - 'Setting the root route'
