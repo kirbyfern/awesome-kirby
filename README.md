@@ -6,12 +6,13 @@ Started:Oct.27,2016
   - Operation Code (Where Military Veterans Code & Network)
   - code & coffee long beach (code meetup)
   - LA ruby (east side & west side ruby on rails meetup)
-#Basics start here
+
+#Basics
 - Coding Websites
-- [x] [Code Academy](https://www.codecademy.com)
-- [x] [Free Code Camp](https://www.freecodecamp.com) I Recommend You Start here.
-  - still reading
-- [x] [Learn Linux Here](https://linuxjourney.com/)
+  - [x] [Code Academy](https://www.codecademy.com)
+  - [x] [Free Code Camp](https://www.freecodecamp.com) I Recommend You Start here.
+    - still reading
+  - [x] [Learn Linux Here](https://linuxjourney.com/)
 
 
 #Books
