@@ -17,7 +17,7 @@ Started:Oct.27,2016
 - [ ] [Full stack Ruby on Rails by upskill courses](http://upskillcourses.com/p/essential-web-developer-course)
 - [x] [Learn Ruby on Rails 5 Book 1](http://learn-rails.com/)
 - [x] [Learn Ruby on Rails 5 Book 2](http://learn-rails.com/)
-  - Introducing view helpers page 195
+  - page 195
 - [x] [Railstutorial by Michael Hartl](https://www.railstutorial.org/book)
   - Start Below:
     - [x] [command-line-tutorial](https://www.learnenough.com/command-line-tutorial)
