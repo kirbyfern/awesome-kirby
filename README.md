@@ -7,6 +7,9 @@ Started:Oct.27,2016
   - code & coffee long beach (code meetup)
   - LA ruby (east side & west side ruby on rails meetup)
 
+# TO DO LIST:
+- [ ] [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)
+
 # Basics
 - Coding Websites
   - [x] [Code Academy](https://www.codecademy.com)
