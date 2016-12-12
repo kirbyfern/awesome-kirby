@@ -19,6 +19,7 @@ Started:Oct.27,2016
 
 # Git
   + [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+  + [Atlassan Undoing Changes](https://www.atlassian.com/git/tutorials/undoing-changes)
   + [How to write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
   + [How to write the Perfect Pull Request](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
 
