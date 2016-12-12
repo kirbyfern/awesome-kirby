@@ -2,7 +2,7 @@
 Started:Oct.27,2016
 # Everything about Programming
 
-+ Slack Groups:
++ Groups:
   - Operation Code (Where Military Veterans Code & Network)
   - code & coffee long beach (code meetup)
   - LA ruby (east side & west side ruby on rails meetup)
