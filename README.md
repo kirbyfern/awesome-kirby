@@ -15,6 +15,7 @@ Started:Oct.27,2016
   - [x] [Learn Linux Here](https://linuxjourney.com/)
 
 # Git
+  + [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
   + [How to write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
   + [How to write the Perfect Pull Request](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
 
