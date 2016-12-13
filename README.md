@@ -65,3 +65,7 @@ Started:Oct.27,2016
   + [x] [Let's Encrypt](https://letsencrypt.org/)
     - Encrypted websites are becoming the standard, and there's no reason not to encrypt your site's traffic with a TLS certificate.
   + [x] [SSL Server Test](https://www.ssllabs.com/ssltest/)
+
+# Notes
+  Notes Taking.Organizing your web resources.
+    + [x] [Trello](https://trello.com/)
