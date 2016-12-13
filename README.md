@@ -67,5 +67,4 @@ Started:Oct.27,2016
   + [x] [SSL Server Test](https://www.ssllabs.com/ssltest/)
 
 # Notes
-  Notes Taking.Organizing your web resources.
-    - [x] [Trello](https://trello.com/)
+    + [x] [Trello](https://trello.com/)
