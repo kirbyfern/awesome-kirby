@@ -24,6 +24,7 @@ Started:Oct.27,2016
   + [How to write the Perfect Pull Request](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
 
 # Notes
+Notes Organizer
   + [x] [trello](https://trello.com/)
 
 
@@ -68,6 +69,3 @@ Started:Oct.27,2016
   + [x] [Let's Encrypt](https://letsencrypt.org/)
     - Encrypted websites are becoming the standard, and there's no reason not to encrypt your site's traffic with a TLS certificate.
   + [x] [SSL Server Test](https://www.ssllabs.com/ssltest/)
-
-# Notes
-    + [x] [trello](https://trello.com/)
