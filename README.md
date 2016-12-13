@@ -73,3 +73,6 @@ Notes Organizer
 
 # App Testing
   + [ ] [Google Page Speed](https://developers.google.com/speed/pagespeed/insights/)
+  + [ ] [GT Matrix](https://gtmetrix.com/)
+  + [ ] [SEO checkup](http://seositecheckup.com/)
+  + [ ] [Pingdom speed test](https://tools.pingdom.com/)
