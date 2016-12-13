@@ -56,4 +56,12 @@ Started:Oct.27,2016
         - [x] [Mostly static pages](https://www.learnenough.com/text-editor-tutorial) still reading page 3.4.4 exercises
 
 # Mostly Javascript
- + To be continued
+  + To be continued
+
+
+
+# Encryption (TLS/SSL)
+  Encrypted websites are becoming the standard, and there's no reason not to encrypt your site's traffic with a TLS certificate.Let's Encrypt a free option.
+  + [x] [Let's Encrypt](https://letsencrypt.org/)
+    - Encrypted websites are becoming the standard, and there's no reason not to encrypt your site's traffic with a TLS certificate.
+  + [x] [SSL Server Test](https://www.ssllabs.com/ssltest/)
