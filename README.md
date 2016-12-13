@@ -38,6 +38,7 @@ Notes Organizer
 
 - Ruby on Rails
 - [ ] [Rails HTML5 boilerplate](http://railsapps.github.io/rails-html5-boilerplate.html)
+- [ ] [Zero to Sixty Creating and deploying a rails app under an hour](https://code.tutsplus.com/tutorials/zero-to-sixty-creating-and-deploying-a-rails-app-in-under-an-hour--net-8252)
 - [ ] [Rails and different gems tutorials](https://www.youtube.com/user/RailscastsReloaded)
 - [ ] [Structured Tutorials by jumpstartlab](http://tutorials.jumpstartlab.com/)
 - [ ] [Building 12 apps in 12 weeks on Ruby on Rails by mackenziechild](https://mackenziechild.me/rails-courses/)
@@ -69,3 +70,6 @@ Notes Organizer
   + [x] [Let's Encrypt](https://letsencrypt.org/)
     - Encrypted websites are becoming the standard, and there's no reason not to encrypt your site's traffic with a TLS certificate.
   + [x] [SSL Server Test](https://www.ssllabs.com/ssltest/)
+
+# App Testing
+  + [ ] [Google Page Speed](https://developers.google.com/speed/pagespeed/insights/)
