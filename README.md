@@ -23,6 +23,9 @@ Started:Oct.27,2016
   + [How to write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
   + [How to write the Perfect Pull Request](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
 
+# Notes
+  + [x] [trello](https://trello.com/)
+
 
 # Books
 - Ruby
