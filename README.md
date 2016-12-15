@@ -81,3 +81,6 @@ Notes Organizer
   + [ ] [GT Matrix](https://gtmetrix.com/)
   + [ ] [SEO checkup](http://seositecheckup.com/)
   + [ ] [Pingdom speed test](https://tools.pingdom.com/)
+
+#Trainings
+  + [x] [Amazon Alexa](https://amazon.com)
