@@ -3,7 +3,7 @@ Started:Oct.27,2016
 # Everything about Programming
 
 + Groups:
-  - Operation Code 
+  - Operation Code (Where Military Veterans Code & Network)
   - code & coffee long beach (code meetup)
   - LA ruby (east side & west side ruby on rails meetup)
 
@@ -84,3 +84,4 @@ Notes Organizer
 
 #Trainings
   + [x] [Amazon Alexa](https://amazon.com)
+    ![Image of Alexa](https://github.com/kboygit/my-journey/blob/master/images/amazon1.png)
