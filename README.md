@@ -66,7 +66,7 @@ Notes Organizer
         - [x] [Mostly static pages](https://www.learnenough.com/text-editor-tutorial) still reading page 3.4.4 exercises
 
 # Mostly Javascript
-  + To be continued
+  + [ ] [Javascript Books](https://github.com/kboygit/free-programming-books)
 
 
 
@@ -75,6 +75,7 @@ Notes Organizer
   + [x] [Let's Encrypt](https://letsencrypt.org/)
     - Encrypted websites are becoming the standard, and there's no reason not to encrypt your site's traffic with a TLS certificate.
   + [x] [SSL Server Test](https://www.ssllabs.com/ssltest/)
+  + [ ] [Security Guide for Developers](https://github.com/lydatech/security-guide-for-developers)
 
 # App Testing
   + [ ] [Google Page Speed](https://developers.google.com/speed/pagespeed/insights/)
