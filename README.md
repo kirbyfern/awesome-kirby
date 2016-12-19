@@ -4,7 +4,7 @@ Started:Oct.27,2016
 
 + Groups:
   - [Operation Code](https://operationcode.org/)
-  - code & coffee long beach (code meetup)
+  - [code & coffee long beach](http://www.codeandcoffeelb.org/)
   - LA ruby (east side & west side ruby on rails meetup)
 
 # TO DO LIST:
