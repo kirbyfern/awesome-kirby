@@ -42,7 +42,8 @@ Notes Organizer
   - [x] [Learn Ruby with edgecase ruby koans](http://rubykoans.com/)
 
 - Ruby on Rails
-- [ ] [Launch School](https://launchschool.com/mastery?ref_id=hackingui)
+- [x] [Launch School](https://launchschool.com/mastery?ref_id=hackingui)
+  - [x] [Front end and Back end prep]
 - [ ] [Rails HTML5 boilerplate](http://railsapps.github.io/rails-html5-boilerplate.html)
 - [ ] [Zero to Sixty Creating and deploying a rails app under an hour](https://code.tutsplus.com/tutorials/zero-to-sixty-creating-and-deploying-a-rails-app-in-under-an-hour--net-8252)
 - [ ] [Rails and different gems tutorials](https://www.youtube.com/user/RailscastsReloaded)
