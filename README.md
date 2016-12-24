@@ -28,17 +28,26 @@ Started:Oct.27,2016
     + [How to write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
     + [How to write the Perfect Pull Request](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
 
-# Notes
+# Notes/Progress Tracker
 Notes Organizer
   + [x] [trello](https://trello.com/)
+  + [x] [waffle](https://waffle.io/)
 
-# RVM
+# Tips/Tricks
+- [x] [Coderwall](https://coderwall.com/)
+- [x] [Validator](https://validator.w3.org/nu/#textarea)
+- [x] [Do not copy & paste!]
+- [x] [Googling!]
+- [x] [Reading Documentation and Source Codes]
+- []
+
+# Books (Ruby/RubyonRails)
 + RVM Basics
   - [x] [RVM](https://rvm.io/rvm/basics)
 
-
-# Books
 - Ruby
+  - [x] [Ruby Doc](http://ruby-doc.org/)
+  - [x] [Apidock](http://apidock.com/)
   - [x] [Learn to Program by Chris Pinel](https://pine.fm/LearnToProgram/chap_00.html) still reading page 3
   - [x] [Learn Ruby the hard way](https://learnrubythehardway.org/book/ex3.html)
     - still reading
@@ -46,32 +55,37 @@ Notes Organizer
   - [x] [Learn Ruby with edgecase ruby koans](http://rubykoans.com/)
 
 - Ruby on Rails
-- [x] [Launch School](https://launchschool.com/mastery?ref_id=hackingui)
-  - [x] [Front end and Back end prep]
-- [ ] [Rails HTML5 boilerplate](http://railsapps.github.io/rails-html5-boilerplate.html)
-- [ ] [Zero to Sixty Creating and deploying a rails app under an hour](https://code.tutsplus.com/tutorials/zero-to-sixty-creating-and-deploying-a-rails-app-in-under-an-hour--net-8252)
-- [ ] [Rails and different gems tutorials](https://www.youtube.com/user/RailscastsReloaded)
-- [x] [Structured Tutorials by jumpstartlab](http://tutorials.jumpstartlab.com/)
-- [ ] [Building 12 apps in 12 weeks on Ruby on Rails by mackenziechild](https://mackenziechild.me/rails-courses/)
-- [ ] [Full stack Ruby on Rails by upskill courses](http://upskillcourses.com/p/essential-web-developer-course)
-- [x] [TheOdinProject](http://www.theodinproject.com/) still reading
-- [x] [Learn Ruby on Rails 5 Book 1](http://learn-rails.com/)
-- [x] [Learn Ruby on Rails 5 Book 2](http://learn-rails.com/) still reading page 195
-- [x] [Railstutorial by Michael Hartl](https://www.railstutorial.org/book)
-  - Start Below:
-    - [x] [command-line-tutorial](https://www.learnenough.com/command-line-tutorial)
-    - [x] [text-editor-tutorial](https://www.learnenough.com/text-editor-tutorial)
-    - [x] [Learng Enough Git to be Dangerous / Highly Recommend!](https://www.learnenough.com/git-tutorial)
-    - [x] [Learn Enough HTML](https://www.learnenough.com/html-tutorial)
+  - [x] [Launch School](https://launchschool.com/mastery?ref_id=hackingui)
+    - [x] [Front end and Back end prep]
+  - [ ] [Rails HTML5 boilerplate](http://railsapps.github.io/rails-html5-boilerplate.html)
+  - [ ] [Ruby on Rails Guides](http://guides.rubyonrails.org/)
+  - [ ] [Zero to Sixty Creating and deploying a rails app under an hour](https://code.tutsplus.com/tutorials/zero-to-sixty-creating-and-deploying-a-rails-app-in-under-an-hour--net-8252)
+  - [ ] [Rails and different gems tutorials](https://www.youtube.com/user/RailscastsReloaded)
+  - [ ] [Rail's Cast](http://railscasts.com/)
+  - [x] [Structured Tutorials by jumpstartlab](http://tutorials.jumpstartlab.com/)
+  - [ ] [Building 12 apps in 12 weeks on Ruby on Rails by mackenziechild](https://mackenziechild.me/rails-courses/)
+  - [ ] [Full stack Ruby on Rails by upskill courses](http://upskillcourses.com/p/essential-web-developer-course)
+  - [x] [TheOdinProject](http://www.theodinproject.com/) still reading
+  - [x] [Learn Ruby on Rails 5 Book 1](http://learn-rails.com/)
+  - [x] [Learn Ruby on Rails 5 Book 2](http://learn-rails.com/) still reading page 195
+  - [x] [Railstutorial by Michael Hartl](https://www.railstutorial.org/book)
+    - Start Below:
+      - [x] [command-line-tutorial](https://www.learnenough.com/command-line-tutorial)
+      - [x] [text-editor-tutorial](https://www.learnenough.com/text-editor-tutorial)
+      - [x] [Learng Enough Git to be Dangerous / Highly Recommend!](https://www.learnenough.com/git-tutorial)
+      - [x] [Learn Enough HTML](https://www.learnenough.com/html-tutorial)
 
-    + Advance
-      - [ ] [Action Cable Tutorial](https://www.learnenough.com/action-cable-tutorial)
-      - [x] [Railstutorial](https://www.railstutorial.org/book)
-        - [x] [From zero to deploy](https://www.learnenough.com/text-editor-tutorial)
-        - [x] [A toy app](https://www.learnenough.com/text-editor-tutorial)
-        - [x] [Mostly static pages](https://www.learnenough.com/text-editor-tutorial) still reading page 3.4.4 exercises
+      + Advance
+        - [ ] [Action Cable Tutorial](https://www.learnenough.com/action-cable-tutorial)
+        - [x] [Railstutorial](https://www.railstutorial.org/book)
+          - [x] [From zero to deploy](https://www.learnenough.com/text-editor-tutorial)
+          - [x] [A toy app](https://www.learnenough.com/text-editor-tutorial)
+          - [x] [Mostly static pages](https://www.learnenough.com/text-editor-tutorial) still reading page 3.4.4 exercises
 
+- CSS on Rails Framework
+  - [ ] [Applying clean CSS Framework on Rails](https://medium.com/@richardsondx/rich-css-a-clean-css-framework-45e7e776eef8#.9wad50ljo)
 # Mostly Javascript
+  + [x] [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
   + [ ] [Javascript Books](https://github.com/kboygit/free-programming-books)
 
 
