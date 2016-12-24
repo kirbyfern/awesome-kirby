@@ -16,6 +16,7 @@ Started:Oct.27,2016
   - [x] [Free Code Camp](https://www.freecodecamp.com) I Recommend You Start here.
     - still reading
   - [x] [Learn Linux Here](https://linuxjourney.com/)
+  - [ ] [Learn Code the Hard Way](https://learncodethehardway.org/)
 
 # Git
 + Version Control Hosting
