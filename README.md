@@ -38,9 +38,9 @@ Notes Organizer
 # Tips/Tricks
 - [x] [Coderwall](https://coderwall.com/)
 - [x] [Validator](https://validator.w3.org/nu/#textarea)
-- [x] [Do not copy & paste!]
-- [x] [Googling!]
-- [x] [Reading Documentation and Source Codes]
+- [x] Do not copy & paste!
+- [x] Googling!
+- [x] Reading Documentation and Source Codes
 
 # Books (Ruby/RubyonRails)
 + RVM Basics
