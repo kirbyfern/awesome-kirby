@@ -32,6 +32,10 @@ Started:Oct.27,2016
 Notes Organizer
   + [x] [trello](https://trello.com/)
 
+# RVM
++ RVM Basics
+  - [x] [RVM](https://rvm.io/rvm/basics)
+
 
 # Books
 - Ruby
