@@ -28,6 +28,8 @@ Started:Oct.27,2016
     + [How to write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
     + [How to write the Perfect Pull Request](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
 
+    - [ ] [Advance Git](https://git-scm.com/book/en/v2)
+
 # Notes/Progress Tracker
 Notes Organizer
   + [x] [trello](https://trello.com/)
