@@ -41,7 +41,6 @@ Notes Organizer
 - [x] [Do not copy & paste!]
 - [x] [Googling!]
 - [x] [Reading Documentation and Source Codes]
-- []
 
 # Books (Ruby/RubyonRails)
 + RVM Basics
