@@ -84,19 +84,22 @@ Notes Organizer
 
 - CSS on Rails Framework
   - [ ] [Applying clean CSS Framework on Rails](https://medium.com/@richardsondx/rich-css-a-clean-css-framework-45e7e776eef8#.9wad50ljo)
-  
+
 # Mostly Javascript
   + [x] [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
   + [ ] [Javascript Books](https://github.com/kboygit/free-programming-books)
 
 
 
-# Encryption (TLS/SSL)
+# Encryption (TLS/SSL) , Databases(SQLite/MySQL/PostgreSQL)
   Encrypted websites are becoming the standard, and there's no reason not to encrypt your site's traffic with a TLS certificate.Let's Encrypt a free option.
   + [x] [Let's Encrypt](https://letsencrypt.org/)
     - Encrypted websites are becoming the standard, and there's no reason not to encrypt your site's traffic with a TLS certificate.
   + [x] [SSL Server Test](https://www.ssllabs.com/ssltest/)
   + [ ] [Security Guide for Developers](https://github.com/lydatech/security-guide-for-developers)
+
+  + SQLite vs MySQL vs PostgreSQL
+    - [ ] [A Comparison Of Relational Database Management Systems](https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems)
 
 # App Testing
   + [ ] [Google Page Speed](https://developers.google.com/speed/pagespeed/insights/)
