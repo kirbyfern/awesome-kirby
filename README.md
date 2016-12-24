@@ -84,6 +84,7 @@ Notes Organizer
 
 - CSS on Rails Framework
   - [ ] [Applying clean CSS Framework on Rails](https://medium.com/@richardsondx/rich-css-a-clean-css-framework-45e7e776eef8#.9wad50ljo)
+  
 # Mostly Javascript
   + [x] [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
   + [ ] [Javascript Books](https://github.com/kboygit/free-programming-books)
