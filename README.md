@@ -33,6 +33,7 @@ Started:Oct.27,2016
   - [x] [Bitbucket](https://bitbucket.org/)
   - [x] [Gitlab](https://about.gitlab.com/)
   - [x] [AWS Amazon](https://aws.amazon.com/codecommit/)
+    + [Github Documentation](https://help.github.com/)
     + [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
     + [Atlassan Undoing Changes](https://www.atlassian.com/git/tutorials/undoing-changes)
     + [How to write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
