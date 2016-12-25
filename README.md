@@ -48,6 +48,7 @@ Notes Organizer
 # Tips/Tricks
 - [x] [Coderwall](https://coderwall.com/)
 - [x] [Validator](https://validator.w3.org/nu/#textarea)
+- [x] [Never Multitask it lowers your I.Q](https://blog.bufferapp.com/what-multitasking-does-to-our-brains)
 - [x] Do not copy & paste!
 - [x] Googling!
 - [x] Reading Documentation and Source Codes
