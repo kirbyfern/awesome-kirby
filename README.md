@@ -17,6 +17,12 @@ Started:Oct.27,2016
     - still reading
   - [x] [Learn Linux Here](https://linuxjourney.com/)
   - [ ] [Learn Code the Hard Way](https://learncodethehardway.org/)
+# Text Editor
+- [x] [Atom](https://atom.io/)
+- [x] [Visual Studio Code](https://code.visualstudio.com/)
+- [x] [Vim]
+  - [Basic Vim Introduction](http://www.openvim.com/)
+  - [Setting up my Neovim](https://neovim.io/)
 
 # Unix Toolbox
 - [ ] [This document is a collection of Unix/Linux/BSD commands and tasks which are useful for IT work or for advanced users. This is a practical guide with concise explanations, however the reader is supposed to know what s/he is doing.](http://cb.vu/unixtoolbox.xhtml)
