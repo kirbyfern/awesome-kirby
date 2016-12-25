@@ -18,6 +18,9 @@ Started:Oct.27,2016
   - [x] [Learn Linux Here](https://linuxjourney.com/)
   - [ ] [Learn Code the Hard Way](https://learncodethehardway.org/)
 
+# Unix Toolbox
+- [ ] [This document is a collection of Unix/Linux/BSD commands and tasks which are useful for IT work or for advanced users. This is a practical guide with concise explanations, however the reader is supposed to know what s/he is doing.](http://cb.vu/unixtoolbox.xhtml)
+
 # Git
 + Version Control Hosting
   - [x] [Github](https://github.com/)
