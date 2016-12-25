@@ -20,7 +20,7 @@ Started:Oct.27,2016
 # Text Editor
 - [x] [Atom](https://atom.io/)
 - [x] [Visual Studio Code](https://code.visualstudio.com/)
-- [x] [Vim]
+- [x] [Vim](http://www.vim.org/)
   - [Basic Vim Introduction](http://www.openvim.com/)
   - [Setting up my Neovim](https://neovim.io/)
 
