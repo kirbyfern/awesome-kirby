@@ -55,6 +55,9 @@ Notes Organizer
 - [x] Reading Documentation and Source Codes
 
 # Books (Ruby/RubyonRails)
++ Teach Your Self
+  - [x] [Teach your self](http://teachyourselftocode.com/)
+
 + RVM Basics
   - [x] [RVM](https://rvm.io/rvm/basics)
 
