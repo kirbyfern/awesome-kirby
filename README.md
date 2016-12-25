@@ -61,6 +61,9 @@ Notes Organizer
 + RVM Basics
   - [x] [RVM](https://rvm.io/rvm/basics)
 
++ Ruby on Rails Special Topics
+  - [ ] [Everything about Ruby on Rails](http://tutorials.jumpstartlab.com/topics/index.html)
+
 - Ruby
   - [x] [Ruby Doc](http://ruby-doc.org/)
   - [x] [Apidock](http://apidock.com/)
