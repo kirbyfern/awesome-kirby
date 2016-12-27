@@ -38,6 +38,7 @@ Started:Oct.27,2016
     + [Atlassan Undoing Changes](https://www.atlassian.com/git/tutorials/undoing-changes)
     + [How to write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
     + [How to write the Perfect Pull Request](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
+    + [How to use rebase](http://web.archive.org/web/20100213104931/http://blog.madism.org/index.php/2007/09/09/138-git-awsome-ness-git-rebase-interactive)
 
     - [ ] [Advance Git](https://git-scm.com/book/en/v2)
 
