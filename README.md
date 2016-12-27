@@ -77,6 +77,7 @@ Notes Organizer
 - Ruby on Rails
   - [x] [Launch School](https://launchschool.com/mastery?ref_id=hackingui)
     - [x] [Front end and Back end prep]
+  - [ ] [Integrating Ember on Rails API](http://ember.vicramon.com/)
   - [ ] [Rails HTML5 boilerplate](http://railsapps.github.io/rails-html5-boilerplate.html)
   - [ ] [Ruby on Rails Guides](http://guides.rubyonrails.org/)
   - [ ] [Zero to Sixty Creating and deploying a rails app under an hour](https://code.tutsplus.com/tutorials/zero-to-sixty-creating-and-deploying-a-rails-app-in-under-an-hour--net-8252)
