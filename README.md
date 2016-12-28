@@ -113,7 +113,7 @@ Notes Organizer
   + [x] [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
   + [ ] [Hack Reactor Prep Course](http://hackreactor.teachable.com/courses/enrolled/hack-reactor-prep)
   + [ ] [Javascript Books](https://github.com/kboygit/free-programming-books)
-
+  + [ ] [AngularJS in 30mins](https://blog.revillweb.com/angularjs-tutorial-learn-angularjs-in-30-minutes-35b5eae52dc2#.3axkjaloh)
 
 
 # Encryption (TLS/SSL) , Databases(SQLite/MySQL/PostgreSQL)
