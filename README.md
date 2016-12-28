@@ -17,7 +17,7 @@ Started:Oct.27,2016
     - still reading
   - [x] [Learn Linux Here](https://linuxjourney.com/)
   - [ ] [Learn Code the Hard Way](https://learncodethehardway.org/)
-  
+
 # Text Editor
 - [x] [Atom](https://atom.io/)
 - [x] [Visual Studio Code](https://code.visualstudio.com/)
@@ -79,6 +79,7 @@ Notes Organizer
 - Ruby on Rails
   - [x] [Launch School](https://launchschool.com/mastery?ref_id=hackingui)
     - [x] [Front end and Back end prep]
+  - [ ] [Using devise with twitter/facebook/linkedin API](http://sourcey.com/rails-4-omniauth-using-devise-with-twitter-facebook-and-linkedin/)
   - [ ] [Integrating Ember on Rails API](http://ember.vicramon.com/)
   - [ ] [Rails HTML5 boilerplate](http://railsapps.github.io/rails-html5-boilerplate.html)
   - [ ] [Ruby on Rails Guides](http://guides.rubyonrails.org/)
