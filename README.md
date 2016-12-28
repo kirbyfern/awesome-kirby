@@ -17,6 +17,7 @@ Started:Oct.27,2016
     - still reading
   - [x] [Learn Linux Here](https://linuxjourney.com/)
   - [ ] [Learn Code the Hard Way](https://learncodethehardway.org/)
+  
 # Text Editor
 - [x] [Atom](https://atom.io/)
 - [x] [Visual Studio Code](https://code.visualstudio.com/)
@@ -109,6 +110,7 @@ Notes Organizer
 
 # Mostly Javascript
   + [x] [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+  + [ ] [Hack Reactor Prep Course](http://hackreactor.teachable.com/courses/enrolled/hack-reactor-prep)
   + [ ] [Javascript Books](https://github.com/kboygit/free-programming-books)
 
 
