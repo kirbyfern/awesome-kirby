@@ -63,6 +63,7 @@ Notes Organizer
 
 + RVM Basics
   - [x] [RVM](https://rvm.io/rvm/basics)
+  - [ ] [How to use RVM](https://www.digitalocean.com/community/tutorials/how-to-use-rvm-to-manage-ruby-installations-and-environments-on-a-vps)
 
 + Ruby on Rails Special Topics
   - [ ] [Everything about Ruby on Rails](http://tutorials.jumpstartlab.com/topics/index.html)
