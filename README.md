@@ -49,6 +49,7 @@ Notes Organizer
   + [x] [waffle](https://waffle.io/)
 
 # Tips/Tricks
+- [x] [Deciding to use spaces/tabs for indentations](http://softwareengineering.stackexchange.com/questions/57/tabs-versus-spaces-what-is-the-proper-indentation-character-for-everything-in-e)
 - [x] [Coderwall](https://coderwall.com/)
 - [x] [Validator](https://validator.w3.org/nu/#textarea)
 - [x] [Never Multitask it lowers your I.Q](https://blog.bufferapp.com/what-multitasking-does-to-our-brains)
