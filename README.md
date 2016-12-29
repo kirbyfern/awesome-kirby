@@ -110,6 +110,8 @@ Notes Organizer
   - [ ] [Applying clean CSS Framework on Rails](https://medium.com/@richardsondx/rich-css-a-clean-css-framework-45e7e776eef8#.9wad50ljo)
 
 # Mostly Javascript
+  + [ ] [How to debugg using breakpoints](https://developers.google.com/web/tools/chrome-devtools/javascript/add-breakpoints)
+
   + [x] [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
   + [ ] [Hack Reactor Prep Course](http://hackreactor.teachable.com/courses/enrolled/hack-reactor-prep)
   + [ ] [Javascript Books](https://github.com/kboygit/free-programming-books)
