@@ -115,10 +115,11 @@ Notes Organizer
 - Test Driven Development/TDD
   - [x] [Decide when to test](https://www.railstutorial.org/book/static_pages#aside-when_to_test)
 
-- CSS on Rails Framework
+- CSS/SCSS on Rails Framework
   - [ ] [Applying clean CSS Framework on Rails](https://medium.com/@richardsondx/rich-css-a-clean-css-framework-45e7e776eef8#.9wad50ljo)
   - [ ] [Bootstrap framework on Rails](http://getbootstrap.com/customize/#less-variables)
   - This part uses less however when 'bootstrap-sass' gem is used it provides the sass equivalents.Less use @ sign while Sass use $ sign.
+  - [ ] [Sass on Rails](http://sass-lang.com/)
 
 # Mostly Javascript
   + [ ] [How to debug using breakpoints](https://developers.google.com/web/tools/chrome-devtools/javascript/add-breakpoints)
