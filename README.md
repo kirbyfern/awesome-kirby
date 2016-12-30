@@ -118,6 +118,7 @@ Notes Organizer
 - CSS on Rails Framework
   - [ ] [Applying clean CSS Framework on Rails](https://medium.com/@richardsondx/rich-css-a-clean-css-framework-45e7e776eef8#.9wad50ljo)
   - [ ] [Bootstrap framework on Rails](http://getbootstrap.com/customize/#less-variables)
+  - This part uses less however when 'bootstrap-sass' gem is used it provides the sass equivalents.Less use @ sign while Sass use $ sign.
 
 # Mostly Javascript
   + [ ] [How to debug using breakpoints](https://developers.google.com/web/tools/chrome-devtools/javascript/add-breakpoints)
