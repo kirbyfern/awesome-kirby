@@ -85,6 +85,7 @@ Notes Organizer
   - [ ] [Using devise with twitter/facebook/linkedin API](http://sourcey.com/rails-4-omniauth-using-devise-with-twitter-facebook-and-linkedin/)
   - [ ] [Integrating Ember on Rails API](http://ember.vicramon.com/)
   - [ ] [Rails HTML5 boilerplate](http://railsapps.github.io/rails-html5-boilerplate.html)
+  - [ ] [Rails API](http://api.rubyonrails.org/classes/ActionView/Helpers/AssetTagHelper.html#method-i-stylesheet_link_tag)
   - [ ] [Ruby on Rails Guides](http://guides.rubyonrails.org/)
   - [x] [Zero to Sixty Creating and deploying a rails app under an hour](https://code.tutsplus.com/tutorials/zero-to-sixty-creating-and-deploying-a-rails-app-in-under-an-hour--net-8252)
   - [ ] [Rails and different gems tutorials](https://www.youtube.com/user/RailscastsReloaded)
