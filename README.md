@@ -108,6 +108,9 @@ Notes Organizer
           - [x] [A toy app](https://www.learnenough.com/text-editor-tutorial)
           - [x] [Mostly static pages](https://www.learnenough.com/text-editor-tutorial) still reading page 3.4.4 exercises
 
+- Test Driven Development/TDD
+  - [x] [Decide when to test](https://www.railstutorial.org/book/static_pages#aside-when_to_test)
+
 - CSS on Rails Framework
   - [ ] [Applying clean CSS Framework on Rails](https://medium.com/@richardsondx/rich-css-a-clean-css-framework-45e7e776eef8#.9wad50ljo)
 
