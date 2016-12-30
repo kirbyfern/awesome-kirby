@@ -101,7 +101,7 @@ Notes Organizer
     - Start Below:
       - [x] [command-line-tutorial](https://www.learnenough.com/command-line-tutorial)
       - [x] [text-editor-tutorial](https://www.learnenough.com/text-editor-tutorial)
-      - [x] [Learng Enough Git to be Dangerous / Highly Recommend!](https://www.learnenough.com/git-tutorial)
+      - [x] [Learn Enough Git to be Dangerous / Highly Recommend!](https://www.learnenough.com/git-tutorial)
       - [x] [Learn Enough HTML](https://www.learnenough.com/html-tutorial)
 
       + Advance
