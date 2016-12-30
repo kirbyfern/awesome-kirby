@@ -79,20 +79,21 @@ Notes Organizer
   - [ ] [exercism on ruby](http://exercism.io/languages/ruby/about)
 
 - Ruby on Rails
-  - [x] [Launch School](https://launchschool.com/mastery?ref_id=hackingui)
-    - [x] [Front end and Back end prep]
+  - [ ] [Rich on Rails](https://richonrails.com/)
   - [ ] [Rails apps](http://railsapps.github.io/)
   - [ ] [Using devise with twitter/facebook/linkedin API](http://sourcey.com/rails-4-omniauth-using-devise-with-twitter-facebook-and-linkedin/)
   - [ ] [Integrating Ember on Rails API](http://ember.vicramon.com/)
   - [ ] [Rails HTML5 boilerplate](http://railsapps.github.io/rails-html5-boilerplate.html)
   - [ ] [Rails API](http://api.rubyonrails.org/classes/ActionView/Helpers/AssetTagHelper.html#method-i-stylesheet_link_tag)
   - [ ] [Ruby on Rails Guides](http://guides.rubyonrails.org/)
-  - [x] [Zero to Sixty Creating and deploying a rails app under an hour](https://code.tutsplus.com/tutorials/zero-to-sixty-creating-and-deploying-a-rails-app-in-under-an-hour--net-8252)
   - [ ] [Rails and different gems tutorials](https://www.youtube.com/user/RailscastsReloaded)
   - [ ] [Rail's Cast](http://railscasts.com/)
-  - [x] [Structured Tutorials by jumpstartlab](http://tutorials.jumpstartlab.com/)
   - [ ] [Building 12 apps in 12 weeks on Ruby on Rails by mackenziechild](https://mackenziechild.me/rails-courses/)
   - [ ] [Full stack Ruby on Rails by upskill courses](http://upskillcourses.com/p/essential-web-developer-course)
+  - [x] [Launch School](https://launchschool.com/mastery?ref_id=hackingui)
+    - [x] [Front end and Back end prep]
+  - [x] [Structured Tutorials by jumpstartlab](http://tutorials.jumpstartlab.com/)
+  - [x] [Zero to Sixty Creating and deploying a rails app under an hour](https://code.tutsplus.com/tutorials/zero-to-sixty-creating-and-deploying-a-rails-app-in-under-an-hour--net-8252)
   - [x] [TheOdinProject](http://www.theodinproject.com/) still reading
   - [x] [Learn Ruby on Rails 5 Book 1](http://learn-rails.com/)
   - [x] [Learn Ruby on Rails 5 Book 2](http://learn-rails.com/) still reading page 195
@@ -108,7 +109,8 @@ Notes Organizer
         - [x] [Railstutorial](https://www.railstutorial.org/book)
           - [x] [From zero to deploy](https://www.learnenough.com/text-editor-tutorial)
           - [x] [A toy app](https://www.learnenough.com/text-editor-tutorial)
-          - [x] [Mostly static pages](https://www.learnenough.com/text-editor-tutorial) still reading page 3.4.4 exercises
+          - [x] [Mostly static pages](https://www.learnenough.com/text-editor-tutorial)
+          - [x] [Rails Flavored Ruby](https://www.learnenough.com/text-editor-tutorial)
 
 - Test Driven Development/TDD
   - [x] [Decide when to test](https://www.railstutorial.org/book/static_pages#aside-when_to_test)
