@@ -82,6 +82,7 @@ Notes Organizer
   - [ ] [Rich on Rails](https://richonrails.com/)
   - [ ] [Rails apps](http://railsapps.github.io/)
   - [ ] [Using devise with twitter/facebook/linkedin API](http://sourcey.com/rails-4-omniauth-using-devise-with-twitter-facebook-and-linkedin/)
+    [Tips on using devise](http://excid3.com/blog/rails-tip-adding-password-complexity-validations-to-devise)
   - [ ] [Integrating Ember on Rails API](http://ember.vicramon.com/)
   - [ ] [Rails HTML5 boilerplate](http://railsapps.github.io/rails-html5-boilerplate.html)
   - [ ] [Rails API](http://api.rubyonrails.org/classes/ActionView/Helpers/AssetTagHelper.html#method-i-stylesheet_link_tag)
