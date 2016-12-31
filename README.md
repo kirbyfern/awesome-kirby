@@ -107,10 +107,6 @@ Notes Organizer
       + Advance
         - [ ] [Action Cable Tutorial](https://www.learnenough.com/action-cable-tutorial)
         - [x] [Railstutorial](https://www.railstutorial.org/book)
-          - [x] [From zero to deploy](https://www.learnenough.com/text-editor-tutorial)
-          - [x] [A toy app](https://www.learnenough.com/text-editor-tutorial)
-          - [x] [Mostly static pages](https://www.learnenough.com/text-editor-tutorial)
-          - [x] [Rails Flavored Ruby](https://www.learnenough.com/text-editor-tutorial)
 
 - Test Driven Development/TDD
   - [x] [Decide when to test](https://www.railstutorial.org/book/static_pages#aside-when_to_test)
