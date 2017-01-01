@@ -136,6 +136,10 @@ Notes Organizer
   + [x] [SSL Server Test](https://www.ssllabs.com/ssltest/)
   + [ ] [Security Guide for Developers](https://github.com/lydatech/security-guide-for-developers)
 
+  + [ ] [Deploying Rails app with puma](https://devcenter.heroku.com/articles/deploying-rails-applications-with-the-puma-web-server)
+  + [ ] [Heroku SSL](https://devcenter.heroku.com/articles/ssl)
+    + [7.5.1 SSL in production Guide RT]
+
   + SQLite vs MySQL vs PostgreSQL
     - [ ] [A Comparison Of Relational Database Management Systems](https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems)
     - [ ] [SQLite Browser](http://sqlitebrowser.org/)
