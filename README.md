@@ -80,6 +80,7 @@ Notes Organizer
   - [ ] [exercism on ruby](http://exercism.io/languages/ruby/about)
 
 - Ruby on Rails
+  - [ ] [Pragmatic Books](https://forums.pragprog.com/)
   - [ ] [Rich on Rails](https://richonrails.com/)
   - [ ] [Rails apps](http://railsapps.github.io/)
   - [ ] [Using devise with twitter/facebook/linkedin API](http://sourcey.com/rails-4-omniauth-using-devise-with-twitter-facebook-and-linkedin/)
