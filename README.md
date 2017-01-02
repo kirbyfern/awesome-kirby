@@ -1,5 +1,5 @@
 # Journey
-Started:Oct.27,2016
+Started:October 27,2016
 # Everything about Programming
 
 + Groups:
