@@ -142,7 +142,7 @@ Notes Organizer
 
   + SQLite vs MySQL vs PostgreSQL
     - [ ] [A Comparison Of Relational Database Management Systems](https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems)
-    - [ ] [SQLite Browser](http://sqlitebrowser.org/)
+    - [x] [SQLite Browser](http://sqlitebrowser.org/)
 
 # App Testing
   + [ ] [Google Page Speed](https://developers.google.com/speed/pagespeed/insights/)
