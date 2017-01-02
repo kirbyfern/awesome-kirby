@@ -140,11 +140,8 @@ Notes Organizer
   + [ ] [Security Guide for Developers](https://github.com/lydatech/security-guide-for-developers)
 
   + [x] [Deploying Rails app with puma](https://devcenter.heroku.com/articles/deploying-rails-applications-with-the-puma-web-server)
-<<<<<<< HEAD
-  + [ ] [Heroku SSL](https://devcenter.heroku.com/articles/ssl)
-=======
   + [x] [Heroku SSL](https://devcenter.heroku.com/articles/ssl)
->>>>>>> b5d92ec5b83947ae1c95c1a35f9921b347a8d859
+
     + [7.5.1 SSL in production Guide RT]
 
   + SQLite vs MySQL vs PostgreSQL
