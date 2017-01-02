@@ -113,6 +113,9 @@ Notes Organizer
 
 - Test Driven Development/TDD
   - [x] [Decide when to test](https://www.railstutorial.org/book/static_pages#aside-when_to_test)
+  - [ ] [The Cycles of TDD // Must read!](http://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html)
+  - [ ] [MSDN TDD Guide](https://msdn.microsoft.com/en-us/library/aa730844(v=vs.80).aspx)
+  - [ ] [Red Green Refactor](https://dockyard.com/blog/2016/03/23/the-thing-about-red-green-refactor-nobody-talks-about)
 
 - CSS/SCSS on Rails Framework
   - [ ] [Applying clean CSS Framework on Rails](https://medium.com/@richardsondx/rich-css-a-clean-css-framework-45e7e776eef8#.9wad50ljo)
@@ -136,7 +139,7 @@ Notes Organizer
   + [x] [SSL Server Test](https://www.ssllabs.com/ssltest/)
   + [ ] [Security Guide for Developers](https://github.com/lydatech/security-guide-for-developers)
 
-  + [ ] [Deploying Rails app with puma](https://devcenter.heroku.com/articles/deploying-rails-applications-with-the-puma-web-server)
+  + [x] [Deploying Rails app with puma](https://devcenter.heroku.com/articles/deploying-rails-applications-with-the-puma-web-server)
   + [ ] [Heroku SSL](https://devcenter.heroku.com/articles/ssl)
     + [7.5.1 SSL in production Guide RT]
 
