@@ -9,6 +9,7 @@ Started:October 27,2016
 
 # TO DO LIST:
 - [ ] [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)
+- [ ] [Configure Hackintosh](http://www.hackintosh.com/)
 
 # Basics
 - Coding Websites
