@@ -134,6 +134,7 @@ Notes Organizer
   + [ ] [AngularJS in 30mins](https://blog.revillweb.com/angularjs-tutorial-learn-angularjs-in-30-minutes-35b5eae52dc2#.3axkjaloh)
   + [ ] [React Tutorial](https://facebook.github.io/react/tutorial/tutorial.html)
   + [ ] [Heart Framework](http://www.appcues.com/blog/google-improves-user-experience-with-heart-framework/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+  + [ ] [Node JS interview Q & A](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017/)
 
 
 # Encryption (TLS/SSL) , Databases(SQLite/MySQL/PostgreSQL)
