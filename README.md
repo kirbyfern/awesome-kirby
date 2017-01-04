@@ -10,6 +10,7 @@ Started:October 27,2016
 # TO DO LIST:
 - [ ] [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)
 - [ ] [Configure Hackintosh](http://www.hackintosh.com/)
+- [ ] [Get an internship](https://weworkremotely.com/categories/2-programming/jobs#intro)
 
 # Basics
 - Coding Websites
@@ -132,6 +133,7 @@ Notes Organizer
   + [ ] [Javascript Books](https://github.com/kboygit/free-programming-books)
   + [ ] [AngularJS in 30mins](https://blog.revillweb.com/angularjs-tutorial-learn-angularjs-in-30-minutes-35b5eae52dc2#.3axkjaloh)
   + [ ] [React Tutorial](https://facebook.github.io/react/tutorial/tutorial.html)
+  + [ ] [Heart Framework](http://www.appcues.com/blog/google-improves-user-experience-with-heart-framework/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
 
 # Encryption (TLS/SSL) , Databases(SQLite/MySQL/PostgreSQL)
