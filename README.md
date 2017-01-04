@@ -166,4 +166,4 @@ Notes Organizer
   + [x] [Amazon Alexa](https://amazon.com)
     ![Image of Alexa](https://github.com/kboygit/my-journey/blob/master/images/amazon1.png)
 
-  + [ ] [Startup Class](https://startupclass.co/)
+  + [ ] [How to start a startup](https://startupclass.co/)
