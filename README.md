@@ -78,6 +78,8 @@ Notes Organizer
     - still reading
   - [x] [Ruby in 100 minutes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html)
   - [x] [Learn Ruby with edgecase ruby koans](http://rubykoans.com/)
+  - [ ] [Excellent Ruby Content](https://pragmaticstudio.com/)
+  - [ ] [Learning OOP:know first the fundamentals of the syntax](http://www.poodr.com/)
   - [ ] [Zen Ruby](http://www.zenspider.com/ruby/quickref.html)
   - [ ] [exercism on ruby](http://exercism.io/languages/ruby/about)
 
