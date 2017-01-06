@@ -47,8 +47,8 @@ Started:October 27,2016
 
 # Notes/Progress Tracker
 Notes Organizer
-  + [x] [trello](https://trello.com/)
-  + [x] [waffle](https://waffle.io/)
+  + [x] [Trello](https://trello.com/)
+  + [x] [Waffle](https://waffle.io/)
 
 # Tips/Tricks
 - [x] [Deciding to use spaces/tabs for indentations](http://softwareengineering.stackexchange.com/questions/57/tabs-versus-spaces-what-is-the-proper-indentation-character-for-everything-in-e)
