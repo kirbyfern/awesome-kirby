@@ -98,6 +98,7 @@ Notes Organizer
   - [ ] [Rail's Cast](http://railscasts.com/)
   - [ ] [Building 12 apps in 12 weeks on Ruby on Rails by mackenziechild](https://mackenziechild.me/rails-courses/)
   - [ ] [Full stack Ruby on Rails by upskill courses](http://upskillcourses.com/p/essential-web-developer-course)
+  - [ ] [Rails Assets](https://rails-assets.org/#/)
   - [x] [Launch School](https://launchschool.com/mastery?ref_id=hackingui)
     - [x] [Front end and Back end prep]
   - [x] [Structured Tutorials by jumpstartlab](http://tutorials.jumpstartlab.com/)
