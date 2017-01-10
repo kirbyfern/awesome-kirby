@@ -1,5 +1,5 @@
 # Journey
-Started:Oct.27,2016
+Started:October 27,2016
 # Everything about Programming
 
 + Groups:
@@ -9,6 +9,8 @@ Started:Oct.27,2016
 
 # TO DO LIST:
 - [ ] [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)
+- [ ] [Configure Hackintosh](http://www.hackintosh.com/)
+- [ ] [Get an internship](https://weworkremotely.com/categories/2-programming/jobs#intro)
 
 # Basics
 - Coding Websites
@@ -45,8 +47,8 @@ Started:Oct.27,2016
 
 # Notes/Progress Tracker
 Notes Organizer
-  + [x] [trello](https://trello.com/)
-  + [x] [waffle](https://waffle.io/)
+  + [x] [Trello](https://trello.com/)
+  + [x] [Waffle](https://waffle.io/)
 
 # Tips/Tricks
 - [x] [Deciding to use spaces/tabs for indentations](http://softwareengineering.stackexchange.com/questions/57/tabs-versus-spaces-what-is-the-proper-indentation-character-for-everything-in-e)
@@ -73,15 +75,21 @@ Notes Organizer
   - [x] [Apidock](http://apidock.com/)
   - [x] [Learn to Program by Chris Pinel](https://pine.fm/LearnToProgram/chap_00.html) still reading page 3
   - [x] [Learn Ruby the hard way](https://learnrubythehardway.org/book/ex3.html)
-    - still reading
+    - still going on the exercises
   - [x] [Ruby in 100 minutes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html)
   - [x] [Learn Ruby with edgecase ruby koans](http://rubykoans.com/)
   - [ ] [Ruby libhunt](https://ruby.libhunt.com/)
+  - [x] [exercism on ruby](http://exercism.io/languages/ruby/about)
+    - started the exercises
+  - [ ] [Excellent Ruby Content](https://pragmaticstudio.com/)
+  - [ ] [Learning OOP:know first the fundamentals of the syntax](http://www.poodr.com/)
   - [ ] [Zen Ruby](http://www.zenspider.com/ruby/quickref.html)
+  - [ ] [Launch Schools Ruby](https://launchschool.com/books/ruby/read/files)
   - [ ] [exercism on ruby](http://exercism.io/languages/ruby/about)
 
 - Ruby on Rails
   - [ ] [Pragmatic Books](https://forums.pragprog.com/)
+  - [ ] [Image Upload using CarrierWave](https://code.tutsplus.com/tutorials/rails-image-upload-using-carrierwave-in-a-rails-app--cms-25183)
   - [ ] [Rich on Rails](https://richonrails.com/)
   - [ ] [Rails apps](http://railsapps.github.io/)
   - [ ] [Using devise with twitter/facebook/linkedin API](http://sourcey.com/rails-4-omniauth-using-devise-with-twitter-facebook-and-linkedin/)
@@ -94,6 +102,7 @@ Notes Organizer
   - [ ] [Rail's Cast](http://railscasts.com/)
   - [ ] [Building 12 apps in 12 weeks on Ruby on Rails by mackenziechild](https://mackenziechild.me/rails-courses/)
   - [ ] [Full stack Ruby on Rails by upskill courses](http://upskillcourses.com/p/essential-web-developer-course)
+  - [ ] [Rails Assets](https://rails-assets.org/#/)
   - [x] [Launch School](https://launchschool.com/mastery?ref_id=hackingui)
     - [x] [Front end and Back end prep]
   - [x] [Structured Tutorials by jumpstartlab](http://tutorials.jumpstartlab.com/)
@@ -123,9 +132,9 @@ Notes Organizer
 
 - CSS/SCSS on Rails Framework
   - [ ] [Applying clean CSS Framework on Rails](https://medium.com/@richardsondx/rich-css-a-clean-css-framework-45e7e776eef8#.9wad50ljo)
-  - [ ] [Bootstrap framework on Rails](http://getbootstrap.com/customize/#less-variables)
+  - [x] [Bootstrap framework on Rails](http://getbootstrap.com/customize/#less-variables)
   - This part uses less however when 'bootstrap-sass' gem is used it provides the sass equivalents.Less use @ sign while Sass use $ sign.
-  - [ ] [Sass on Rails](http://sass-lang.com/)
+  - [x] [Sass on Rails](http://sass-lang.com/)
 
 # Mostly Javascript
   + [ ] [How to debug using breakpoints](https://developers.google.com/web/tools/chrome-devtools/javascript/add-breakpoints)
@@ -134,6 +143,9 @@ Notes Organizer
   + [ ] [Hack Reactor Prep Course](http://hackreactor.teachable.com/courses/enrolled/hack-reactor-prep)
   + [ ] [Javascript Books](https://github.com/kboygit/free-programming-books)
   + [ ] [AngularJS in 30mins](https://blog.revillweb.com/angularjs-tutorial-learn-angularjs-in-30-minutes-35b5eae52dc2#.3axkjaloh)
+  + [ ] [React Tutorial](https://facebook.github.io/react/tutorial/tutorial.html)
+  + [ ] [Heart Framework](http://www.appcues.com/blog/google-improves-user-experience-with-heart-framework/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+  + [ ] [Node JS interview Q & A](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017/)
 
 
 # Encryption (TLS/SSL) , Databases(SQLite/MySQL/PostgreSQL)
@@ -153,10 +165,11 @@ Notes Organizer
     - [x] [SQLite Browser](http://sqlitebrowser.org/)
 
 # App Testing
-  + [ ] [Google Page Speed](https://developers.google.com/speed/pagespeed/insights/)
+  + [x] [Google Page Speed](https://developers.google.com/speed/pagespeed/insights/)
+  + [x] [Pingdom speed test](https://tools.pingdom.com/)
   + [ ] [GT Matrix](https://gtmetrix.com/)
   + [ ] [SEO checkup](http://seositecheckup.com/)
-  + [ ] [Pingdom speed test](https://tools.pingdom.com/)
+
 
 # Open Source Contribution
   + [x] [Best way to start contributing to open source](http://www.justinweiss.com/articles/the-easiest-way-to-get-into-open-source/)
@@ -165,4 +178,4 @@ Notes Organizer
   + [x] [Amazon Alexa](https://amazon.com)
     ![Image of Alexa](https://github.com/kboygit/my-journey/blob/master/images/amazon1.png)
 
-  + [ ] [Startup Class](https://startupclass.co/)
+  + [ ] [How to start a startup](https://startupclass.co/)
