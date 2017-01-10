@@ -161,10 +161,11 @@ Notes Organizer
     - [x] [SQLite Browser](http://sqlitebrowser.org/)
 
 # App Testing
-  + [ ] [Google Page Speed](https://developers.google.com/speed/pagespeed/insights/)
+  + [x] [Google Page Speed](https://developers.google.com/speed/pagespeed/insights/)
+  + [x] [Pingdom speed test](https://tools.pingdom.com/)
   + [ ] [GT Matrix](https://gtmetrix.com/)
   + [ ] [SEO checkup](http://seositecheckup.com/)
-  + [ ] [Pingdom speed test](https://tools.pingdom.com/)
+
 
 # Open Source Contribution
   + [x] [Best way to start contributing to open source](http://www.justinweiss.com/articles/the-easiest-way-to-get-into-open-source/)
