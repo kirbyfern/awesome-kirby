@@ -75,14 +75,17 @@ Notes Organizer
   - [x] [Apidock](http://apidock.com/)
   - [x] [Learn to Program by Chris Pinel](https://pine.fm/LearnToProgram/chap_00.html) still reading page 3
   - [x] [Learn Ruby the hard way](https://learnrubythehardway.org/book/ex3.html)
-    - still reading
+    - still going on the exercises
   - [x] [Ruby in 100 minutes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html)
   - [x] [Learn Ruby with edgecase ruby koans](http://rubykoans.com/)
+  - [x] [exercism on ruby](http://exercism.io/languages/ruby/about)
+   - started the exercises
   - [ ] [Excellent Ruby Content](https://pragmaticstudio.com/)
   - [ ] [Learning OOP:know first the fundamentals of the syntax](http://www.poodr.com/)
   - [ ] [Zen Ruby](http://www.zenspider.com/ruby/quickref.html)
+  - [ ] [Launch Schools Ruby](https://launchschool.com/books/ruby/read/files)
   - [ ] [exercism on ruby](http://exercism.io/languages/ruby/about)
-
+  
 - Ruby on Rails
   - [ ] [Pragmatic Books](https://forums.pragprog.com/)
   - [ ] [Image Upload using CarrierWave](https://code.tutsplus.com/tutorials/rails-image-upload-using-carrierwave-in-a-rails-app--cms-25183)
