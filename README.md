@@ -76,6 +76,7 @@ Notes Organizer
     - still reading
   - [x] [Ruby in 100 minutes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html)
   - [x] [Learn Ruby with edgecase ruby koans](http://rubykoans.com/)
+  - [ ] [Ruby libhunt](https://ruby.libhunt.com/)
   - [ ] [Zen Ruby](http://www.zenspider.com/ruby/quickref.html)
   - [ ] [exercism on ruby](http://exercism.io/languages/ruby/about)
 
@@ -110,6 +111,9 @@ Notes Organizer
       + Advance
         - [ ] [Action Cable Tutorial](https://www.learnenough.com/action-cable-tutorial)
         - [x] [Railstutorial](https://www.railstutorial.org/book)
+
+- Hanami
+  - [ ] [Hanami Tutorials from ruby.libhunt](https://ruby.libhunt.com/project/hanami/tutorials)
 
 - Test Driven Development/TDD
   - [x] [Decide when to test](https://www.railstutorial.org/book/static_pages#aside-when_to_test)
