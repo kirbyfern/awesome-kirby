@@ -69,6 +69,7 @@ Notes Organizer
 # Books (Ruby/RubyonRails)
 + Teach Your Self
   - [x] [Teach your self](http://teachyourselftocode.com/)
+  - [ ] [A bunch of Resources ~ Programming Motherf*cker](http://programming-motherfucker.com/become.html)
 
 + RVM Basics
   - [x] [RVM](https://rvm.io/rvm/basics)
@@ -145,8 +146,8 @@ Notes Organizer
 
 # Mostly Javascript
   + [x] [A list of resources from Quora / MUST SEE!](https://www.quora.com/What-is-the-best-way-to-learn-JavaScript)
+  + [ ] [Quora Resources](https://www.quora.com/What-is-the-JavaScript-equivalent-of-Learn-Python-the-Hard-Way)
   + [ ] [How to debug using breakpoints](https://developers.google.com/web/tools/chrome-devtools/javascript/add-breakpoints)
-
   + [x] [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
   + [ ] [Hack Reactor Prep Course](http://hackreactor.teachable.com/courses/enrolled/hack-reactor-prep)
   + [ ] [Javascript Books](https://github.com/kboygit/free-programming-books)
