@@ -144,6 +144,7 @@ Notes Organizer
   - [x] [Sass on Rails](http://sass-lang.com/)
 
 # Mostly Javascript
+  + [x] [A list of resources from Quora / MUST SEE!](https://www.quora.com/What-is-the-best-way-to-learn-JavaScript)
   + [ ] [How to debug using breakpoints](https://developers.google.com/web/tools/chrome-devtools/javascript/add-breakpoints)
 
   + [x] [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
