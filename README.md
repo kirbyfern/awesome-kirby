@@ -30,7 +30,10 @@ Started:October 27,2016
 - [x] [Vim](http://www.vim.org/)
   - [Basic Vim Introduction](http://www.openvim.com/)
   - [Setting up my Neovim](https://neovim.io/)
-
+  
+# Jobs
+- [ ] [Resources for finding a remote job/internship](https://www.producthunt.com/e/find-a-remote-job)
+  
 # Unix Toolbox
 - [ ] [This document is a collection of Unix/Linux/BSD commands and tasks which are useful for IT work or for advanced users. This is a practical guide with concise explanations, however the reader is supposed to know what s/he is doing.](http://cb.vu/unixtoolbox.xhtml)
 
