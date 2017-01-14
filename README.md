@@ -155,13 +155,21 @@ Notes Organizer
   + [ ] [Quora Resources](https://www.quora.com/What-is-the-JavaScript-equivalent-of-Learn-Python-the-Hard-Way)
   + [ ] [How to debug using breakpoints](https://developers.google.com/web/tools/chrome-devtools/javascript/add-breakpoints)
   + [x] [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+  + [ ] [Javascript Concepts Must Know](http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/)
   + [ ] [Hack Reactor Prep Course](http://hackreactor.teachable.com/courses/enrolled/hack-reactor-prep)
   + [ ] [Javascript Books](https://github.com/kboygit/free-programming-books)
-  + [ ] [AngularJS in 30mins](https://blog.revillweb.com/angularjs-tutorial-learn-angularjs-in-30-minutes-35b5eae52dc2#.3axkjaloh)
-  + [ ] [React Tutorial](https://facebook.github.io/react/tutorial/tutorial.html)
   + [ ] [Heart Framework](http://www.appcues.com/blog/google-improves-user-experience-with-heart-framework/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
-  + [ ] [Node JS interview Q & A](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017/)
 
+
+- React
+  - [ ] [Getting Started and Understanding React](https://www.youtube.com/watch?v=PEXcg8xu2y0)
+  + [ ] [React Tutorial](https://facebook.github.io/react/tutorial/tutorial.html)
+
+- AngularJS
+  + [ ] [AngularJS in 30mins](https://blog.revillweb.com/angularjs-tutorial-learn-angularjs-in-30-minutes-35b5eae52dc2#.3axkjaloh)
+
+- NodeJS
+  + [ ] [Node JS interview Q & A](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017/)
 
 # Encryption (TLS/SSL) , Databases(SQLite/MySQL/PostgreSQL)
   Encrypted websites are becoming the standard, and there's no reason not to encrypt your site's traffic with a TLS certificate.Let's Encrypt a free option.
