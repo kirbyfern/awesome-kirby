@@ -102,6 +102,7 @@ Notes Organizer
   - [ ] [exercism on ruby](http://exercism.io/languages/ruby/about)
 
 - Ruby on Rails
+  - [ ] [Justin Weiss Rails Courses)[https://www.justinweiss.com/]
   - [ ] [Pragmatic Books](https://forums.pragprog.com/)
   - [ ] [Image Upload using CarrierWave](https://code.tutsplus.com/tutorials/rails-image-upload-using-carrierwave-in-a-rails-app--cms-25183)
   - [ ] [Rich on Rails](https://richonrails.com/)
