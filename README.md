@@ -168,6 +168,8 @@ Notes Organizer
   + [ ] [React Tutorial](https://facebook.github.io/react/tutorial/tutorial.html)
 
 - AngularJS
+  + [ ] [Angular Official Documentation](https://angularjs.org/)
+  + [ ] [Angular 2 Official Documentation)(https://angular.io/)
   + [ ] [AngularJS in 30mins](https://blog.revillweb.com/angularjs-tutorial-learn-angularjs-in-30-minutes-35b5eae52dc2#.3axkjaloh)
 
 - NodeJS
