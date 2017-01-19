@@ -30,6 +30,7 @@ Started:October 27,2016
 - [x] [Vim](http://www.vim.org/)
   - [Basic Vim Introduction](http://www.openvim.com/)
   - [Setting up my Neovim](https://neovim.io/)
+- [x] [Codeblocks for Compiling](http://wiki.codeblocks.org/index.php/Creating_a_new_project)
 
 # Jobs
 - [ ] [Resources for finding a remote job/internship](https://www.producthunt.com/e/find-a-remote-job)
