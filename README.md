@@ -12,7 +12,8 @@ Started:October 27,2016
   - LA ruby (east side & west side ruby on rails meetup)
 
 # TO DO LIST:
-- [ ] [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)
+- [x] [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)
+  - still going
 - [ ] [Configure Hackintosh](http://www.hackintosh.com/)
 - [ ] [Get an internship](https://weworkremotely.com/categories/2-programming/jobs#intro)
 
@@ -80,7 +81,7 @@ Notes Organizer
 
 + RVM Basics
   - [x] [RVM](https://rvm.io/rvm/basics)
-  - [ ] [How to use RVM](https://www.digitalocean.com/community/tutorials/how-to-use-rvm-to-manage-ruby-installations-and-environments-on-a-vps)
+  - [x] [How to use RVM](https://www.digitalocean.com/community/tutorials/how-to-use-rvm-to-manage-ruby-installations-and-environments-on-a-vps)
 
 + Ruby on Rails Special Topics
   - [ ] [Everything about Ruby on Rails](http://tutorials.jumpstartlab.com/topics/index.html)
@@ -99,8 +100,8 @@ Notes Organizer
   - [ ] [Excellent Ruby Content](https://pragmaticstudio.com/)
   - [ ] [Learning OOP:know first the fundamentals of the syntax](http://www.poodr.com/)
   - [ ] [Zen Ruby](http://www.zenspider.com/ruby/quickref.html)
-  - [ ] [Launch Schools Ruby](https://launchschool.com/books/ruby/read/files)
-  - [ ] [exercism on ruby](http://exercism.io/languages/ruby/about)
+  - [x] [Launch Schools Ruby](https://launchschool.com/books/ruby/read/files)
+
 
 - Ruby on Rails
   - [ ] [Justin Weiss Rails Courses](https://www.justinweiss.com/)
@@ -114,12 +115,13 @@ Notes Organizer
   - [ ] [Integrating Ember on Rails API](http://ember.vicramon.com/)
   - [ ] [Rails HTML5 boilerplate](http://railsapps.github.io/rails-html5-boilerplate.html)
   - [ ] [Rails API](http://api.rubyonrails.org/classes/ActionView/Helpers/AssetTagHelper.html#method-i-stylesheet_link_tag)
-  - [ ] [Ruby on Rails Guides](http://guides.rubyonrails.org/)
+  - [x] [Ruby on Rails Guides](http://guides.rubyonrails.org/)
   - [ ] [Rails and different gems tutorials](https://www.youtube.com/user/RailscastsReloaded)
   - [ ] [Rail's Cast](http://railscasts.com/)
-  - [ ] [Building 12 apps in 12 weeks on Ruby on Rails by mackenziechild](https://mackenziechild.me/rails-courses/)
+  - [x] [Building 12 apps in 12 weeks on Ruby on Rails by mackenziechild](https://mackenziechild.me/rails-courses/)
+    - still going
   - [ ] [Full stack Ruby on Rails by upskill courses](http://upskillcourses.com/p/essential-web-developer-course)
-  - [ ] [Rails Assets](https://rails-assets.org/#/)
+  - [x] [Rails Assets](https://rails-assets.org/#/)
   - [x] [Launch School](https://launchschool.com/mastery?ref_id=hackingui)
     - [x] [Front end and Back end prep]
   - [x] [Structured Tutorials by jumpstartlab](http://tutorials.jumpstartlab.com/)
@@ -158,7 +160,7 @@ Notes Organizer
   + [ ] [Quora Resources](https://www.quora.com/What-is-the-JavaScript-equivalent-of-Learn-Python-the-Hard-Way)
   + [ ] [How to debug using breakpoints](https://developers.google.com/web/tools/chrome-devtools/javascript/add-breakpoints)
   + [x] [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
-  + [ ] [Javascript Concepts Must Know](http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/)
+  + [x] [Javascript Concepts Must Know](http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/)
   + [ ] [Hack Reactor Prep Course](http://hackreactor.teachable.com/courses/enrolled/hack-reactor-prep)
   + [ ] [Javascript Books](https://github.com/kboygit/free-programming-books)
   + [ ] [Heart Framework](http://www.appcues.com/blog/google-improves-user-experience-with-heart-framework/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
@@ -170,7 +172,7 @@ Notes Organizer
 
 - AngularJS
   + [ ] [Angular Official Documentation](https://angularjs.org/)
-  + [ ] [Angular 2 Official Documentation)(https://angular.io/)
+  + [ ] [Angular 2 Official Documentation](https://angular.io/)
   + [ ] [AngularJS in 30mins](https://blog.revillweb.com/angularjs-tutorial-learn-angularjs-in-30-minutes-35b5eae52dc2#.3axkjaloh)
 
 - NodeJS
