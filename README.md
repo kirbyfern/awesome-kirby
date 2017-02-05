@@ -1,11 +1,12 @@
 <p align="center">
   <b>Awesome Journey</b><br>
   <b>Started:October 27,2016</b><br>
-  <a href="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a> |
+  <a href="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a>
   <a href="https://github.com/sindresorhus/awesome"></a>
   <br><br>
 </p>
 
+[![Journey](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 # License:
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">my-journey</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://kirbyjames.herokuapp.com/" property="cc:attributionName" rel="cc:attributionURL">Kirby James</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
