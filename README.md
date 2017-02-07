@@ -1,5 +1,6 @@
 <p align="center">
   <b>Awesome Journey</b><br>
+  <b>A curated list of resources when I started</b><br>
   <b>Started:October 27,2016</b><br>
   <a href="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a>
   <a href="https://github.com/sindresorhus/awesome"></a>
@@ -14,9 +15,9 @@
 # Everything about Programming
 
 + Groups:
-  - [Operation Code](https://operationcode.org/)
-  - [code & coffee long beach](http://www.codeandcoffeelb.org/)
-  - LA ruby (east side & west side ruby on rails meetup)
+- [x] [Ultimate list of Slack Communities](https://medium.com/@slackinday/an-ultimate-list-of-190-slack-communities-ee92a12a8df2#.f762chl2q)
+- [x] [46 Developers Slack Communities](https://techbeacon.com/46-slack-groups-developers)
+- [x] [Another list of Slack Communities](https://www.quora.com/What-are-some-community-channels-for-any-programming-languages-on-Slack)
 
 # TO DO LIST:
 - [x] [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)
@@ -30,7 +31,7 @@
   - [x] [Free Code Camp](https://www.freecodecamp.com) I Recommend You Start here.
     - still reading
   - [x] [Learn Linux Here](https://linuxjourney.com/)
-  - [ ] [Learn Code the Hard Way](https://learncodethehardway.org/)
+  - [x] [Learn Code the Hard Way](https://learncodethehardway.org/)
 
 # Text Editor
 - [x] [Atom](https://atom.io/)
@@ -38,10 +39,11 @@
 - [x] [Vim](http://www.vim.org/)
   - [Basic Vim Introduction](http://www.openvim.com/)
   - [Setting up my Neovim](https://neovim.io/)
+- [x] [Eclipse](http://www.eclipse.org)
 - [x] [Codeblocks for Compiling](http://wiki.codeblocks.org/index.php/Creating_a_new_project)
 
 # Jobs
-- [ ] [Resources for finding a remote job/internship](https://www.producthunt.com/e/find-a-remote-job)
+- [x] [Resources for finding a remote job/internship](https://www.producthunt.com/e/find-a-remote-job)
 
 # Unix Toolbox
 - [ ] [This document is a collection of Unix/Linux/BSD commands and tasks which are useful for IT work or for advanced users. This is a practical guide with concise explanations, however the reader is supposed to know what s/he is doing.](http://cb.vu/unixtoolbox.xhtml)
@@ -91,7 +93,7 @@ Notes Organizer
   - [x] [How to use RVM](https://www.digitalocean.com/community/tutorials/how-to-use-rvm-to-manage-ruby-installations-and-environments-on-a-vps)
 
 + Ruby on Rails Special Topics
-  - [ ] [Everything about Ruby on Rails](http://tutorials.jumpstartlab.com/topics/index.html)
+  - [x] [Everything about Ruby on Rails](http://tutorials.jumpstartlab.com/topics/index.html)
 
 - Ruby
   - [x] [Ruby Doc](http://ruby-doc.org/)
@@ -111,7 +113,7 @@ Notes Organizer
 
 
 - Ruby on Rails
-  - [ ] [Justin Weiss Rails Courses](https://www.justinweiss.com/)
+  - [x] [Justin Weiss Rails Courses](https://www.justinweiss.com/)
   - [ ] [Codenewbie](http://www.codenewbie.org/)
   - [ ] [Pragmatic Books](https://forums.pragprog.com/)
   - [ ] [Image Upload using CarrierWave](https://code.tutsplus.com/tutorials/rails-image-upload-using-carrierwave-in-a-rails-app--cms-25183)
@@ -204,8 +206,8 @@ Notes Organizer
 # App Testing
   + [x] [Google Page Speed](https://developers.google.com/speed/pagespeed/insights/)
   + [x] [Pingdom speed test](https://tools.pingdom.com/)
-  + [ ] [GT Matrix](https://gtmetrix.com/)
-  + [ ] [SEO checkup](http://seositecheckup.com/)
+  + [x] [GT Matrix](https://gtmetrix.com/)
+  + [x] [SEO checkup](http://seositecheckup.com/)
 
 
 # Open Source Contribution
