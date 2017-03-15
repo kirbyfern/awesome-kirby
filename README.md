@@ -35,6 +35,7 @@
 
 # Text Editor
 - [x] [Atom](https://atom.io/)
+  - [Atom Cheat Sheet](https://gist.github.com/chrissimpkins/5bf5686bae86b8129bee)
 - [x] [Visual Studio Code](https://code.visualstudio.com/)
 - [x] [Vim](http://www.vim.org/)
   - [Basic Vim Introduction](http://www.openvim.com/)
