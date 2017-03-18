@@ -214,7 +214,7 @@ Notes Organizer
 # Open Source Contribution
   + [x] [Best way to start contributing to open source](http://www.justinweiss.com/articles/the-easiest-way-to-get-into-open-source/)
 
-#Trainings/Personal
+# Trainings/Personal
   + [x] [Amazon Alexa](https://amazon.com)
     ![Image of Alexa](https://github.com/kboygit/my-journey/blob/master/images/amazon1.png)
 
