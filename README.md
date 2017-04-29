@@ -205,6 +205,8 @@ Notes Organizer
     - [x] [SQLite Browser](http://sqlitebrowser.org/)
 
 # App Testing
+  + [x] [Blitz](https://www.blitz.io/)
+  + [x] [Load](http://loader.io/)
   + [x] [Google Page Speed](https://developers.google.com/speed/pagespeed/insights/)
   + [x] [Pingdom speed test](https://tools.pingdom.com/)
   + [x] [GT Matrix](https://gtmetrix.com/)
