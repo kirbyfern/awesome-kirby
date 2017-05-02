@@ -21,7 +21,7 @@
 
 # TO DO LIST:
 - [x] [CS50](https://courses.edx.org/courses/course-v1%3AHarvardX%2BCS50%2BX/)
-  - [ ] [Still Going]
+  - [ ] Still Going
 - [x] [Configure Hackintosh](http://www.hackintosh.com/)
 - [x] [Get an internship](https://weworkremotely.com/categories/2-programming/jobs#intro)
 
