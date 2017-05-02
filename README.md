@@ -83,8 +83,13 @@ Notes Organizer
 
 # Books (Ruby/RubyonRails)
 + Rails Conference
+  + 2017
+    - [ ] [Rails 5.1 Changes](https://speakerdeck.com/claudiob/rails-5-dot-1-upcoming-features)
   + 2016
     - [x] [Rails Conference Talks](http://railsconf.com/2016/program/sessions)
++ Ruby Conference
+  + 2010
+    - [ ] [Why is this code so slow by: Aaron Patterson](https://www.slideshare.net/tenderlove/zomg-why-is-this-code-so-slow/152)
 + Teach Your Self
   - [x] [Teach your self](http://teachyourselftocode.com/)
   - [x] [A bunch of Resources ~ Programming Motherf*cker](http://programming-motherfucker.com/become.html)
