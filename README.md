@@ -84,10 +84,12 @@ Notes Organizer
 # Books (Ruby/RubyonRails)
 + Rails Conference
   + 2017
-    - [ ] [Rails 5.1 Changes](https://speakerdeck.com/claudiob/rails-5-dot-1-upcoming-features)
+    - [x] [Rails 5.1 Changes](https://speakerdeck.com/claudiob/rails-5-dot-1-upcoming-features)
   + 2016
     - [x] [Rails Conference Talks](http://railsconf.com/2016/program/sessions)
 + Ruby Conference
+  + 2017
+    - [ ] [Ruby Conference Philippines](https://www.youtube.com/playlist?list=PL0mVjsUoElSHKtxq2efDQc6EXTDqabxdV)
   + 2010
     - [ ] [Why is this code so slow by: Aaron Patterson](https://www.slideshare.net/tenderlove/zomg-why-is-this-code-so-slow/152)
 + Teach Your Self
@@ -169,6 +171,12 @@ Notes Organizer
   - [x] [Bootstrap framework on Rails](http://getbootstrap.com/customize/#less-variables)
   - This part uses less however when 'bootstrap-sass' gem is used it provides the sass equivalents.Less use @ sign while Sass use $ sign.
   - [x] [Sass on Rails](http://sass-lang.com/)
+
+# Tutorials
+- [x] [Deploy static stite to Heroku](http://www.instructables.com/id/Make-your-HTML-Website-suitable-for-Mobile-Devices/step8/Test-and-Finalize-Your-Website/)
+- [x] [Making your website suitable for all devices](http://www.instructables.com/id/Make-your-HTML-Website-suitable-for-Mobile-Devices/)
+- [x] [A list of Project based learning] (https://github.com/tuvttran/project-based-learning#cc)
+
 
 # Mostly Javascript
   + [x] [A list of resources from Quora / MUST SEE!](https://www.quora.com/What-is-the-best-way-to-learn-JavaScript)
