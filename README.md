@@ -175,8 +175,7 @@ Notes Organizer
 # Tutorials
 - [x] [Deploy static stite to Heroku](http://www.instructables.com/id/Make-your-HTML-Website-suitable-for-Mobile-Devices/step8/Test-and-Finalize-Your-Website/)
 - [x] [Making your website suitable for all devices](http://www.instructables.com/id/Make-your-HTML-Website-suitable-for-Mobile-Devices/)
-- [x] [A list of Project based learning] (https://github.com/tuvttran/project-based-learning#cc)
-
+- [x] [A list of project based learning](https://github.com/tuvttran/project-based-learning#cc)
 
 # Mostly Javascript
   + [x] [A list of resources from Quora / MUST SEE!](https://www.quora.com/What-is-the-best-way-to-learn-JavaScript)
